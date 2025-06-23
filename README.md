@@ -1,2 +1,1 @@
-# budgeter_app
-A simple Python budget tracker that lets users add expenses, view spending history, and track remaining budget from the command line.
+This is a beginner-friendly budgeting app built in Python. It allows users to set an initial budget, log expenses with descriptions, and view real-time summaries of their spending. Great for learning and practicing personal finance and core Python concepts, including loops, conditionals, and lists.
